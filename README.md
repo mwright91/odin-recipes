@@ -1,0 +1,1 @@
+This will be my first project in Odin. Without skipping ahead to see what I will be doing exactly, I assume I'll be setting up basic HTML elements to put recipes on a website. Things like: the recipes themselves, images, and links to other pages or other sites.
